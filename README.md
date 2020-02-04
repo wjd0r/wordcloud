@@ -1,10 +1,11 @@
 wordcloud
 =========
 
-## dev language
-'''
+### dev language
+```
 firebase + react proj
-'''
+
+```
 
 ### dev invironment : mac os 10.15 Catalina
 
