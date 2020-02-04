@@ -3,12 +3,15 @@ wordcloud
 
 ### dev language
 ```
-firebase + react proj
+firebase
+react
 ```
 
 ### dev invironment
 ```
 mac os 10.15 Catalina
+node.js
+yarn
 ```
 
 ### dev tool
